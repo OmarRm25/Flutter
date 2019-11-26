@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509268176383",
+    "firebase_url": "https://chatfinal-59522.firebaseio.com",
+    "project_id": "chatfinal-59522",
+    "storage_bucket": "chatfinal-59522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509268176383:android:8e0fc23955e55f26800bca",
+        "android_client_info": {
+          "package_name": "com.fes.chat_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509268176383-c677jf9j3tmdubntk0plm77iutj4jf8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdGOm8Tq4B-5SJJifjuHPebcMfY6w9iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509268176383-c677jf9j3tmdubntk0plm77iutj4jf8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
